@@ -1,0 +1,104 @@
+#separator:Tab
+#columns:Danska Svenska Tags
+#tags column:3
+#deck:Danska::Startord
+rolig	lugn; stillsam	vanligt_ord falsk_van ordklass::adjektiv
+frokost	lunch	vanligt_ord falsk_van ordklass::substantiv
+by	stad; tätort	vanligt_ord falsk_van ordklass::substantiv
+semester	studieperiod på universitet eller högskola	vanligt_ord falsk_van ordklass::substantiv
+synes	tycker; anser	vanligt_ord falsk_van ordklass::verb
+grine	skratta	vanligt_ord falsk_van ordklass::verb
+dyr	dyr; kostsam (adjektiv)	vanligt_ord falsk_van ordklass::adjektiv
+skør	galen; tokig	vanligt_ord falsk_van ordklass::adjektiv
+mærkelig	konstig; märklig på ett ovanligt sätt	vanligt_ord falsk_van ordklass::adjektiv
+pung	plånbok; portmonnä	vanligt_ord falsk_van ordklass::substantiv
+forskellig	olika	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+anderledes	annorlunda	vanligt_ord tydligt_annorlunda ordklass::adverb
+ikke	inte	vanligt_ord tydligt_annorlunda ordklass::adverb
+hvad	vad	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvem	vem	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvor	var	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvordan	hur	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvorfor	varför	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvornår	när	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvis	om	vanligt_ord tydligt_annorlunda ordklass::konjunktion
+fordi	eftersom; för att	vanligt_ord tydligt_annorlunda ordklass::konjunktion
+derfor	därför; alltså	vanligt_ord tydligt_annorlunda ordklass::adverb
+måske	kanske	vanligt_ord tydligt_annorlunda ordklass::adverb
+meget	mycket	vanligt_ord tydligt_annorlunda ordklass::adverb
+allerede	redan	vanligt_ord tydligt_annorlunda ordklass::adverb
+stadig	fortfarande	vanligt_ord tydligt_annorlunda ordklass::adverb
+kun	bara; endast	vanligt_ord tydligt_annorlunda ordklass::adverb
+begge	båda	vanligt_ord tydligt_annorlunda ordklass::pronomen
+uden	utan	vanligt_ord tydligt_annorlunda ordklass::preposition
+gennem	genom	vanligt_ord tydligt_annorlunda ordklass::preposition
+foran	framför	vanligt_ord tydligt_annorlunda ordklass::preposition
+bag	bakom	vanligt_ord tydligt_annorlunda ordklass::preposition
+ellers	annars	vanligt_ord tydligt_annorlunda ordklass::adverb
+alligevel	ändå; trots allt	vanligt_ord tydligt_annorlunda ordklass::adverb
+imens	medan	vanligt_ord tydligt_annorlunda ordklass::konjunktion
+bagefter	efteråt	vanligt_ord tydligt_annorlunda ordklass::adverb
+før	innan	vanligt_ord tydligt_annorlunda ordklass::preposition
+straks	genast	vanligt_ord tydligt_annorlunda ordklass::adverb
+hvorfra	varifrån	vanligt_ord tydligt_annorlunda ordklass::frågeord
+hvorhen	vart	vanligt_ord tydligt_annorlunda ordklass::frågeord
+blive	bli	vanligt_ord tydligt_annorlunda ordklass::verb
+sige	säga	vanligt_ord tydligt_annorlunda ordklass::verb
+spørge	fråga	vanligt_ord tydligt_annorlunda ordklass::verb
+vide	veta	vanligt_ord tydligt_annorlunda ordklass::verb
+finde	hitta	vanligt_ord tydligt_annorlunda ordklass::verb
+bruge	använda	vanligt_ord tydligt_annorlunda ordklass::verb
+begynde	börja	vanligt_ord tydligt_annorlunda ordklass::verb
+slutte	avsluta; sluta	vanligt_ord tydligt_annorlunda ordklass::verb
+glemme	glömma	vanligt_ord tydligt_annorlunda ordklass::verb
+huske	minnas; komma ihåg	vanligt_ord tydligt_annorlunda ordklass::verb
+vågne	vakna	vanligt_ord tydligt_annorlunda ordklass::verb
+spise	äta	vanligt_ord tydligt_annorlunda ordklass::verb
+løbe	springa	vanligt_ord tydligt_annorlunda ordklass::verb
+køre	åka; köra	vanligt_ord tydligt_annorlunda ordklass::verb
+mangle	sakna; fattas	vanligt_ord tydligt_annorlunda ordklass::verb
+fortælle	berätta	vanligt_ord tydligt_annorlunda ordklass::verb
+lave	göra	vanligt_ord tydligt_annorlunda ordklass::verb
+opdage	upptäcka	vanligt_ord tydligt_annorlunda ordklass::verb
+trække	dra	vanligt_ord tydligt_annorlunda ordklass::verb
+have	ha	vanligt_ord tydligt_annorlunda ordklass::verb
+lukke	stänga	vanligt_ord tydligt_annorlunda ordklass::verb
+åbne	öppna	vanligt_ord tydligt_annorlunda ordklass::verb
+smide	kasta; slänga	vanligt_ord tydligt_annorlunda ordklass::verb
+lyve	ljuga	vanligt_ord tydligt_annorlunda ordklass::verb
+græde	gråta	vanligt_ord tydligt_annorlunda ordklass::verb
+tabe	förlora; tappa	vanligt_ord tydligt_annorlunda ordklass::verb
+vinde	vinna	vanligt_ord tydligt_annorlunda ordklass::verb
+føle	känna	vanligt_ord tydligt_annorlunda ordklass::verb
+tælle	räkna	vanligt_ord tydligt_annorlunda ordklass::verb
+undgå	undvika	vanligt_ord tydligt_annorlunda ordklass::verb
+pige	flicka	vanligt_ord tydligt_annorlunda ordklass::substantiv
+dreng	pojke	vanligt_ord tydligt_annorlunda ordklass::substantiv
+uge	vecka	vanligt_ord tydligt_annorlunda ordklass::substantiv
+aften	kväll	vanligt_ord tydligt_annorlunda ordklass::substantiv
+værelse	rum	vanligt_ord tydligt_annorlunda ordklass::substantiv
+etage	våning	vanligt_ord tydligt_annorlunda ordklass::substantiv
+vindue	fönster	vanligt_ord tydligt_annorlunda ordklass::substantiv
+taske	väska	vanligt_ord tydligt_annorlunda ordklass::substantiv
+tøj	kläder	vanligt_ord tydligt_annorlunda ordklass::substantiv
+dyne	täcke	vanligt_ord tydligt_annorlunda ordklass::substantiv
+køleskab	kylskåp	vanligt_ord tydligt_annorlunda ordklass::substantiv
+komfur	spis	vanligt_ord tydligt_annorlunda ordklass::substantiv
+nabo	granne	vanligt_ord tydligt_annorlunda ordklass::substantiv
+kartoffel	potatis	vanligt_ord tydligt_annorlunda ordklass::substantiv
+gulerod	morot	vanligt_ord tydeligt_annorlunda ordklass::substantiv
+jordbær	jordgubbe	vanligt_ord tydeligt_annorlunda ordklass::substantiv
+hindbær	hallon	vanligt_ord tydeligt_annorlunda ordklass::substantiv
+fløde	grädde	vanligt_ord tydeligt_annorlunda ordklass::substantiv
+fly	flygplan (danska); fly (svenska)	vanligt_ord falsk_van ordklass::substantiv
+stue	vardagsrum	vanligt_ord tydligt_annorlunda ordklass::substantiv
+sjov	rolig; kul	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+kedelig	tråkig	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+bange	rädd	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+smuk	vacker	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+beskidt	smutsig	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+travl	upptagen; ha mycket att göra	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+hurtig	snabb	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+nem	enkel; lätt	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+forfærdelig	hemsk; fruktansvärd	vanligt_ord tydligt_annorlunda ordklass::adjektiv
+våd	blöt	vanligt_ord tydligt_annorlunda ordklass::adjektiv
