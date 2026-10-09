@@ -20,25 +20,30 @@ Al volver a casa, Clara escribió a su amiga: «El día no salió como esperaba,
 
 ### Preguntas
 
-1. ¿Cuál era el plan original de Clara?
-2. ¿Por qué no pudo hacerlo?
+1. ¿Cuál era el plan original de Clara? 
+El plan original de Clara es hacer una excursión en barco por el fiordo de Oslo.
+2. ¿Por qué no pudo hacerlo? Los
+Por el mal tiempo.
 3. ¿Cómo encontró una alternativa?
+Por que el mal tiempo podía visitar u nmuseu en la península de Bygdøy. 
 4. ¿Qué hizo después de visitar el museo?
+Encontró una cafetería pequena y pidió una sopa caliente.
 5. ¿Por qué pensó que había tenido suerte?
+Desde allí vio llegar a otras personas mojadas (No se qué significa esto)
 6. ¿Qué detalle muestra que Clara terminó contenta con el día, aunque el plan cambió?
-
+No se
 ## 2. Gramática y vocabulario
 
 Completa con la forma correcta del verbo entre paréntesis.
 
-1. Cuando Clara __________ (llegar) al muelle, los barcos ya no __________ (salir).
-2. Normalmente __________ (ir) a Bygdøy en verano, pero ese sábado __________ (decidir) visitar un museo.
-3. Mientras __________ (esperar) el autobús, __________ (mirar) el mapa.
-4. Al final, __________ (pasar) una buena mañana porque __________ (descubrir) un lugar nuevo.
+1. Cuando Clara ___llevaba_______ (llegar) al muelle, los barcos ya no _salían_________ (salir).
+2. Normalmente __iba________ (ir) a Bygdøy en verano, pero ese sábado ___decidió_______ (decidir) visitar un museo.
+3. Mientras ____esperaba______ (esperar) el autobús, ___miraba_______ (mirar) el mapa.
+4. Al final, ____pasaba______ (pasar) una buena mañana porque ____descrubió______ (descubrir) un lugar nuevo.
 
 Completa la frase con **aunque** y la forma adecuada del verbo:
 
-5. __________ (hacer) mal tiempo, Clara salió de casa.
+5. ___hacía_______ (hacer) mal tiempo, Clara salió de casa.
 
 ## 3. Escritura
 
@@ -50,6 +55,7 @@ Incluye:
 - qué problema ocurrió y qué hiciste;
 - cómo te sentiste y cómo terminó el día;
 - qué harías la próxima vez.
+El plan era hacer un excurción a Oslo. El tiempo hacía mal, por
 
 Intenta usar algunos verbos en pasado y conectar tus ideas con palabras como *porque, pero, entonces, después, mientras* o *aunque*. No hace falta evitar los errores: escribe de la forma más natural que puedas.
 
@@ -57,8 +63,8 @@ Intenta usar algunos verbos en pasado y conectar tus ideas con palabras como *po
 
 Al final, dime:
 
-- ¿Qué parte te resultó más fácil?
-- ¿Qué parte te resultó más difícil?
-- ¿Usaste traductor o diccionario? Si sí, ¿en qué parte?
+- ¿Qué parte te resultó más fácil? Getting the gist of the content. Yo entiendo la pictura grande. 
+- ¿Qué parte te resultó más difícil? Understanding different conjugations of verbs. Parts of vocabulary
+- ¿Usaste traductor o diccionario? Si sí, ¿en qué parte? No
 
 **Nota:** esta actividad no mide escucha ni conversación oral. Podemos revisarlas por separado con audio o una conversación.
