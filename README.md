@@ -8,6 +8,8 @@ This repository keeps language-learning agents, learning materials, and generate
 - `Chinese/` — Chinese instructions, existing materials, and new Chinese resources
 - `Danish/` — Danish instructions, existing materials, and new Danish resources
 
+Each language folder also has a `Progress.md` file. It records the current skill estimates, goals, recurring strengths and errors, and dated evidence from assignments. Levels begin as unassessed and should be filled in from diagnostic work, not guessed from the materials already in the folder.
+
 Keep generated work in the relevant language folder:
 
 - `Worksheets/` for exercises and answer keys
@@ -18,7 +20,7 @@ Use descriptive filenames with the language level and date when useful, for exam
 
 ## Agent instructions
 
-The root `AGENTS.md` contains rules shared by all language agents. Each language folder has its own `AGENTS.md` with language-specific direction. Configure each local agent to use this repository (or its language folder) as its working directory so it sees the matching instructions and materials.
+The root `AGENTS.md` contains rules shared by all language agents. Each language folder has its own `AGENTS.md` with language-specific direction and `Progress.md` as its learner record. Configure each local agent to use this repository (or its language folder) as its working directory so it sees the matching instructions and materials.
 
 ## Back up with GitHub
 
