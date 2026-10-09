@@ -4,11 +4,11 @@ This is a working record based on submitted work. Estimates are provisional, tie
 
 ## Current profile
 
-- Overall estimate: Not assessed yet
+- Overall estimate: Approximately A2 (prior working estimate recorded in `Spanish_A2_to_B1_Roadmap.md`; not yet confirmed in this progress record)
 - Assessment scale: CEFR unless the learner prefers another scale
-- Last reviewed: Not assessed yet
-- Confidence: Not assessed yet
-- Current goals: Add after the learner chooses them or diagnostic work reveals them
+- Last reviewed: 2026-10-09; baseline diagnostic assigned, not yet completed
+- Confidence: Low until diagnostic evidence is reviewed
+- Current goals: Build practical, independent B1 Spanish, as recorded in the existing roadmap
 
 | Skill | Current estimate | Confidence | Evidence / date |
 |---|---|---|---|
