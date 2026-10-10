@@ -5,3 +5,4 @@
 - Preserve the existing roadmap and exercise files unless asked to revise them.
 - Include answer keys for exercises when useful, clearly separated from the learner section.
 - Use `Spanish/Progress.md` to tailor work and keep dated notes from graded assignments. Treat its level estimates as provisional and change them only when the submitted work provides enough evidence.
+- When the learner says a grammar topic is unfamiliar or a task feels too difficult, reduce the task size and teach one form at a time. Do not contrast the preterite and imperfect until the learner is ready; begin with supported examples and regular forms.
