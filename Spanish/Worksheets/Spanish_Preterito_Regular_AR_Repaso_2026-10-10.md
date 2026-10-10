@@ -6,26 +6,26 @@
 
 Escribe el verbo entre paréntesis en pretérito.
 
-1. Ayer tú __________ (bailar) con tus amigos.
-2. Marta __________ (preparar) una tarta.
-3. Los músicos __________ (tocar) canciones.
-4. Yo __________ (escuchar) una canción nueva.
-5. Nosotros __________ (comprar) limonada.
-6. Mis amigas __________ (visitar) los puestos.
-7. Mi hermano __________ (llamar) a un amigo.
+1. Ayer tú _bailaste_________ (bailar) con tus amigos.
+2. Marta ________preparó__ (preparar) una tarta.
+3. Los músicos _________tocaron_ (tocar) canciones.
+4. Yo _escuché_________ (escuchar) una canción nueva.
+5. Nosotros ___compramos_______ (comprar) limonada.
+6. Mis amigas ______visitaron____ (visitar) los puestos.
+7. Mi hermano _______llamó___ (llamar) a un amigo.
 
 ## 2. Une la persona con la terminación
 
-- tú → __________
-- Marta / ella → __________
-- mis amigos / ellos → __________
+- tú → __________-aste
+- Marta / ella → _______-ó___
+- mis amigos / ellos → ___-aron_______
 
 Opciones: **-aste · -ó · -aron**
 
 ## 3. Comprueba
 
 Escribe las tres formas que quieres recordar mejor:
-
+no comprendo este 
 - **-aste:** __________
 - **-ó:** __________
 - **-aron:** __________
