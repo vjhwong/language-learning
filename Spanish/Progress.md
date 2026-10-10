@@ -6,9 +6,9 @@ This is a working record based on submitted work. Estimates are provisional, tie
 
 - Overall estimate: Approximately A2 (prior working estimate recorded in `Spanish_A2_to_B1_Roadmap.md`; not yet confirmed in this progress record)
 - Assessment scale: CEFR unless the learner prefers another scale
-- Last reviewed: 2026-10-10; lesson sequence adjusted after learner feedback
+- Last reviewed: 2026-10-10; reviewed first regular -ar preterite practice
 - Confidence: Low; this is one short sample and the writing response was unfinished
-- Current goals: Build practical, independent B1 Spanish, as recorded in the existing roadmap. Next instructional step: learn regular preterite -ar forms by themselves before adding other verb groups or tense contrasts.
+- Current goals: Build practical, independent B1 Spanish, as recorded in the existing roadmap. Next instructional step: consolidate regular preterite -ar forms, especially **-aste**, **-ó**, and **-aron**; then introduce regular -er and -ir verbs, which share preterite endings.
 
 | Skill | Current estimate | Confidence | Evidence / date |
 |---|---|---|---|
@@ -20,8 +20,8 @@ This is a working record based on submitted work. Estimates are provisional, tie
 
 ## Strengths and recurring focus areas
 
-- Strengths: Reports understanding the overall meaning; identified the main plan, reason it changed, and what Clara did afterward.
-- Recurring errors or gaps: Learner reports that both the preterite and imperfect are still unfamiliar. Start with the preterite alone, in small supported steps. Prior diagnostic also showed difficulty with inference, adjective agreement, and natural weather phrasing; more writing evidence is needed.
+- Strengths: Reports understanding the overall meaning; identified the main plan, reason it changed, and what Clara did afterward. In supported practice, selected regular -ar preterite forms accurately and self-identified which endings need more practice.
+- Recurring errors or gaps: Learner reports that both the preterite and imperfect are still unfamiliar. Start with the preterite alone, in small supported steps. In the -ar practice, misspelled *escucharon* and omitted the personal *a* in *visité a mi hermano*. Prior diagnostic also showed difficulty with inference, adjective agreement, and natural weather phrasing; more writing evidence is needed.
 - Preferred topics, Spanish variety, and feedback style:
 
 ## Assignment record
@@ -30,3 +30,4 @@ This is a working record based on submitted work. Estimates are provisional, tie
 |---|---|---|---|
 | 2026-10-09 | [A2–B1 baseline diagnostic](Worksheets/Spanish_A2-B1_Diagnostic_2026-10-09.md) | Reading gist and several details understood; missed the inference about staying dry. Past-tense answers show a useful base, with confusion around completed events. Writing response was unfinished (13 words), so writing level remains unestimated. See [feedback](Worksheets/Spanish_A2-B1_Diagnostic_2026-10-09_Feedback.md). | Review *llegó / pasó* versus background *hacía / esperaba*; clarify *mojadas*; complete a shorter supported writing sample. |
 | 2026-10-10 | Lesson adjustment (learner feedback) | Learner reported the preterite/imperfect contrast felt too advanced and that neither tense is familiar yet. This is instructional preference, not new level evidence. | Teach regular preterite -ar forms alone with a short text and small exercises. |
+| 2026-10-10 | [Regular -ar first step](Worksheets/Spanish_Preterito_Regular_AR_Primer_Paso_2026-10-10.md) | Comprehension answers were correct. All five verb forms had the right preterite ending; *escucharon* had a spelling slip. Three personal sentences were attempted; add personal *a* before a person (*visité a mi hermano*). Learner wants to review all endings, especially **-aste, -ó, -aron**. | Do a short focused -ar review, then introduce regular -er/-ir forms together. See [feedback](Worksheets/Spanish_Preterito_Regular_AR_Primer_Paso_2026-10-10_Feedback.md). |
